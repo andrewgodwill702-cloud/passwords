@@ -1,0 +1,13 @@
+
+========================================
+  GITHUB UPLOAD TEST
+========================================
+This file confirms your GitHub integration 
+is working correctly.
+
+Time: 2026-06-03 02:13:23
+Status: CONNECTED
+========================================
+If you can see this file in your repo,
+the payload will work when deployed.
+========================================

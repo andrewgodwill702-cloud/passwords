@@ -1,0 +1,6 @@
+BUILDER ACTIVE
+====================
+Time: 2026-06-04 04:47:50
+Status: Ready
+Output: Full payload with PDF disguise + email propagation
+====================

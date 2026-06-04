@@ -1,0 +1,86 @@
+=======================================================
+  STOLEN DATA REPORT - STEALTH COLLECTOR
+=======================================================
+Computer: DESKTOP-EFP0NDP
+Username: Godwill
+Domain: DESKTOP-EFP0NDP
+SID: Godwill
+IP Address: 102.205.251.69
+Date/Time: 2026-06-04 04:35:07
+OS: Windows_NT
+=======================================================
+
+-------------------------------------------------------
+STORED WINDOWS CREDENTIALS:
+-------------------------------------------------------
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User:user=andrewgodwill702@gmail.com
+    Type: Generic 
+    User: andrewgodwill702@gmail.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02ptevnrtvorskvd
+    Saved for this logon only
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02ptevnrtvorskvd
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=andrewgodwill702@gmail.com
+    Type: Generic 
+    User: andrewgodwill702@gmail.com
+    Local machine persistence
+    
+
+
+-------------------------------------------------------
+SAVED WIFI NETWORKS:
+-------------------------------------------------------
+[WiFi] SSID: Glorys WiFi ~5G | Password: Godwill@702# | Auth: WPA2-Personal
+[WiFi] SSID: iPhone | Password: godwill iphone | Auth: WPA2-Personal
+[WiFi] SSID: Ete_workshop | Password: 24844390 | Auth: WPA2-Personal
+[WiFi] SSID: kaRIMEDIA | Password: _Msumi@2023 | Auth: WPA2-Personal
+[WiFi] SSID: TTCL-WIFI-2 | Password: [No password / Open network] | Auth: Open
+[WiFi] SSID: WIFI 4U | Password: [No password / Open network] | Auth: Open
+[WiFi] SSID: home of GAM Router | Password: 0712204476 | Auth: WPA2-Personal
+[WiFi] SSID: Galaxy A15 E27D | Password: 12345678 | Auth: WPA2-Personal
+[WiFi] SSID: IPHONE TZ 4G | Password: KUNGURU95 | Auth: WPA2-Personal
+[WiFi] SSID: TECNO SPARK 8C | Password: 0712204476 | Auth: WPA2-Personal
+[WiFi] SSID: HUAWEI-AB6B | Password: 88464165 | Auth: WPA2-Personal
+
+-------------------------------------------------------
+BROWSER PASSWORDS:
+-------------------------------------------------------
+[Chrome] https://profreehost.com/register/ | andrewglory184@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Chrome] android://kCyQDzpaoAX2gs-1zdGPKNAeICb8LzRFOxa4NCq0jO8c8d_NFS_q-Y35bU3Nq3GmFV2lLurmNvIZa6YPYZwmWg==@com.pinterest/ | andrewGodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://www.hostgator.com/checkout/cart/create-your-account | 700002 | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://zamotto.com/ | GAM | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://www.instagram.com/ | rich_sato | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://profreehost.com/register/ | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://newversion.shulesoft.africa/signin/index | 623212234 | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://id.unity.com/en/conversations/7766a711-8cf8-4506-9b8e-e630e7a52e33009f | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://free3d.com/login | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://www.epicgames.com/id/login | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://passport.yandex.com/pwl-yandex/reg/password | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://account.proton.me/mail | k.a.l.i.3.l.i.n.u.x@proton.me | [ENCRYPTED - Cannot decrypt]
+[Chrome] https://hackerai.sh/login | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Edge] https://accounts.google.com/v3/signin/challenge/pwd | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Edge] https://www.instagram.com/ | poush_boy | [ENCRYPTED - Cannot decrypt]
+[Edge] https://www.pinterest.com/login/ | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Edge] https://login.unity.com/en/sign-in/third-party/link-account | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Edge] https://dashboard.emailjs.com/sign-up | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Edge] https://formspree.io/register | andrewgodwill702@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Edge] https://www.instagram.com/ | instergrumi | [ENCRYPTED - Cannot decrypt]
+[Edge] https://www.instagram.com/ | inst.ergrumi | [ENCRYPTED - Cannot decrypt]
+[Edge] https://www.instagram.com/accounts/emailsignup/ | poush__boy | [ENCRYPTED - Cannot decrypt]
+[Edge] https://signin.hackerai.co/sign-up/password | professorgodliving@gmail.com | [ENCRYPTED - Cannot decrypt]
+[Edge] https://signin.hackerai.co/sign-up/password | margarethmoshi@outlook.com | [ENCRYPTED - Cannot decrypt]
+
+=======================================================
+END OF REPORT
+=======================================================
